@@ -1,4 +1,4 @@
-name: 03 - Python Script Workflow
+name: Run Script 1
 
 on: workflow_dispatch
 
